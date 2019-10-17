@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eekoosooj.szekhelyszolgalat.net/sitemap.xml
